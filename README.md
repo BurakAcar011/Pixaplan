@@ -1,5 +1,5 @@
 SIMPLY PUT, this app helps the avarege consumer track their habits using the Pixela API.
-Because pixela is an API, normally, if oyu wawnted to track your habits, you would have to know how to code.
+Because pixela is an API, normally, if you wanted to track your habits, you would have to know how to code.
 Pixaplan gets rid of this, with an easy GUI, helps normal everyday people use Pixela, no code needed.
 
 
